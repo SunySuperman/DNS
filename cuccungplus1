@@ -35,7 +35,7 @@
 
 </string>
 <key>PayloadDisplayName</key>
-<string>NextDNS By Khơindvn</string>
+<string>NextDNS</string>
 <key>PayloadIdentifier</key>
 <string>ultralow.dns.nextdns.io</string>
 <key>PayloadScope</key>
